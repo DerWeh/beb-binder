@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - gftool
   - scipy
+  - ipython
   - python=3.9
