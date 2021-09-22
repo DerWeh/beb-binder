@@ -1,0 +1,10 @@
+name: BEB
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - gftool
+  - scipy
+  - python=3.9
