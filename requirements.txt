@@ -1,0 +1,4 @@
+gftool>=0.9.0
+matplotlib
+numpy
+scipy
